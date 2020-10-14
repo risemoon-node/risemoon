@@ -15,6 +15,9 @@
 ```
 🚧 Our website is under construction. 🚧 
 ```
+
+![RiseMoon](https://github.com/risemoon2020/risemoon2020/raw/main/risemoon.png)
+
 ---
 **Here you will find some information about Rise.:**
 ...
