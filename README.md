@@ -4,11 +4,11 @@
 - **Delegate info**
   - 1110894599622891230R
   - Delegate name: risemoon
-  - Explorer: https://explorer.rise.vision/address/1110894599622891230R
+  - Explorer: [https://explorer.rise.vision/address/1110894599622891230R](https://explorer.rise.vision/address/1110894599622891230R)
   - **We pay every day**
   - **90% of all Rise is paid daily**.
   - We accept donations: 1110894599622891230R
-  - E-mail: risemoon2020@gmail.com
+  - E-mail: [risemoon2020@gmail.com](risemoon2020@gmail.com)
   
 ---
 
@@ -19,7 +19,7 @@
 Here you will find some information about Rise.:
  ...
 - 💰 **Wallet**
-  - https://wallet.rise.vision/(https://wallet.rise.vision/)
+  - [wallet.rise.vision](https://wallet.rise.vision/)
   
 - 💻 **Official Site**
   - https://rise.vision/
