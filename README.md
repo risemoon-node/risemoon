@@ -19,17 +19,17 @@
 Here you will find some information about Rise.:
  ...
 - 💰 **Wallet**
-  - https://wallet.rise.vision/
+  - https://wallet.rise.vision/(https://wallet.rise.vision/)
   
 - 💻 **Official Site**
   - https://rise.vision/
   - https://risecheck.com/ (Operation Phoenix)
   - https://www.veritise.com/ (An exclusive opportunity as a RISE holder to claim tokens from a new project called VeriTise)
   
-- :mega: **Telegram**
+- 📣 **Telegram**
   - https://t.me/risevisionofficial
   
-- :currency_exchange: **Exchanges**
+- 💱 **Exchanges**
   - Livecoin - https://livecoin.net 
   - Altilly - https://www.altilly.com/
   - Xt.com - https://www.xt.com 
