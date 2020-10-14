@@ -1,6 +1,5 @@
 ### RiseMoon, hi there 👋
-
-**RiseMoon is a node of Rise - An ecosystem for developers**
+**We are a node of Rise - An ecosystem for developers**
 
 - **Delegate info**
   - 1110894599622891230R
