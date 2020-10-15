@@ -1,4 +1,4 @@
-### RiseMoon, hi there 👋
+### Hi there 👋
 **We are a node of Rise - An ecosystem for developers**
   
 - **Delegate info**
